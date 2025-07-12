@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhimant Bhardwaj
 
-<!--
-**TheMant24/TheMant24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML @ VIT Bhopal  
+📚 Currently learning: Data Structures & Algorithms, Machine Learning  
+🚀 Aspiring ML Engineer | Self-driven & curious  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 2025 Learning Goals
+
+- Master DSA (Leetcode, Codeforces)
+- Build and deploy ML projects
+- Learn Web Dev (Full Stack basics)
+- Get a remote internship
+- Contribute to open-source projects
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: dhimantbhardwaj@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/dhimant-bhardwaj-1685032a0
+
+---
+
+## 📌 Pinned Projects
+
+Check out my top projects below!
