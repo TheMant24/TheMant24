@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhimant Bhardwaj
 
-🎓 B.Tech AIML @ VIT Bhopal'28
+🎓 B.Tech AIML @ VIT Bhopal'28   
 📚 Currently learning: Data Structures & Algorithms, Machine Learning  
 🚀 Aspiring ML Engineer | Self-driven & curious  
 
